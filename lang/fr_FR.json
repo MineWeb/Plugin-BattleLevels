@@ -1,0 +1,12 @@
+{
+	"BATTLELEVELS__PLAYER": "Joueur",
+	"BATTLELEVELS__SCORE": "Score",
+	"BATTLELEVELS__KILL": "Meutres",
+	"BATTLELEVELS__DEATH": "Morts",
+	"BATTLELEVELS__KILLSTREAK": "Série de meutres",
+	"BATTLELEVELS__TOPSTREAK": "Meilleur série de meutres",
+	"BATTLELEVELS__LEVEL": "Level",
+
+	"BATTLELEVELS__NODATA": "Aucune donnée trouvé, le serveur doit être allumé.",
+	"BATTLELEVELS__BADPLAYER": "Les statistiques pour ce joueur ont introuvable."
+}

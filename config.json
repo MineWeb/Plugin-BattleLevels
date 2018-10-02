@@ -1,0 +1,21 @@
+{
+  "name":"BattleLevels",
+  "admin_menus": {},
+  "navbar_routes": {
+    "BattleLevels": "/battlelevels"
+  },
+  "author":"PHPierre",
+  "version":"1.0.0",
+  "apiID":-1,
+  "useEvents":false,
+  "permissions" : {
+    "available" : [],
+    "default" : {
+      "0" : [],
+      "2" : []
+    }
+  },
+  "requirements" : {
+    "CMS" : "^1.6.0"
+  }
+}
